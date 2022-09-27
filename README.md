@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Careful-Man
-- 👀 I’m interested in Java, Python
-- 🌱 I’m currently learning C#, GUI design
-- 💞️ I’m looking to collaborate on stuff
+- 👋 Hi, I’m @Careful-Man.
+- 👀 I’m interested in Java, Python.
+- 🌱 I’m currently learning C#, GUI design.
 - 📫 How to reach me; tompsa15@gmail.com
 
 <!---
