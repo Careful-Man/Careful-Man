@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Thomas Psaltikides aka @Careful-Man.
 - 👀 I’m interested in Cybersecurity and C#.
-- 🌱 I’m currently attending an MSc programme in Cybersecurity. I also work full-time as a Software Developer.
+- 🌱 I’m currently attending an MSc program in Cybersecurity. I also work full-time as a Network Administrator.
 - 📫 How to reach me; tpsaltikidis@gmail.com
 
 <!---
